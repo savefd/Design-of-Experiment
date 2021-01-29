@@ -1,2 +1,2 @@
-# Factorial Design
- 2^k factorial design for Design of Experiment
+# Design of Experiment
+ Some of basic coding for ANOVA and Factorial Design (2^k)
